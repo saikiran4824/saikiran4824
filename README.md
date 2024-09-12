@@ -1,3 +1,7 @@
+![Minion](https://octodex.github.com/images/minion.png)
+![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
+
+
 - 👋 Hi, I’m @saikiran4824
 - 👀 I’m interested in ...
 
