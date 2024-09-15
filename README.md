@@ -1,4 +1,4 @@
--<img src = "![WaveHandGIF](https://github.com/user-attachments/assets/d87492f1-41dc-49d2-8e60-d07480c59a9d) " width ="20px" height = "20px">  Hi, I’m SAI KIRAN
+-👋  Hi, I’m SAI KIRAN
 
 
 
