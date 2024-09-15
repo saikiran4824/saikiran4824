@@ -1,5 +1,5 @@
--![image](https://github.com/user-attachments/assets/2c413a8c-2e1e-453c-bb91-da46712de941)
- Hi, I’m SAI KIRAN
+-![WaveHandGIF](https://github.com/user-attachments/assets/d87492f1-41dc-49d2-8e60-d07480c59a9d)   Hi, I’m SAI KIRAN
+
 
 
 # 💻 My Tech Stack:
