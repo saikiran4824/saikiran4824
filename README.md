@@ -1,4 +1,5 @@
-- https://media.tenor.com/_rAgn1VgQdIAAAAi/wave.gif Hi, I’m SAI KIRAN
+-![image](https://github.com/user-attachments/assets/2c413a8c-2e1e-453c-bb91-da46712de941)
+ Hi, I’m SAI KIRAN
 
 
 # 💻 My Tech Stack:
