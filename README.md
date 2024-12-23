@@ -3,11 +3,7 @@
 <h1 align="center">Hi 👋, I'm Sai Kiran</h1>
 <h3 align="center">I am an enthusiastic coder driven by an unyielding passion for programming. With a strong dedication to mastering new technologies and solving complex problems.</h3>
 
-- 🔭 I’m currently working on **JavaScript, TypeScript, React, Angular, Vue.js, Bootstrap, Tailwind CSS, Redux, Webpack, Git.
-
-
-
-, FrontEnd Development**
+- 🔭 I’m currently working on **JavaScript, TypeScript, React, Angular, Vue.js, Bootstrap, Tailwind CSS, Redux, Webpack, Git, FrontEnd Development**
 
 <h3 align="left">Connect with me:</h3>
 
