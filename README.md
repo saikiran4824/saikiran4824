@@ -12,21 +12,21 @@ I enjoy working on **React**, leveraging **Redux** for state management and usin
 ## 💼 Tech Stack
 
 ### **Frontend**:
-- **React.js** ![React](https://media.giphy.com/media/3ohhwzB8y7kCVEn72w/giphy.gif)
-- **JavaScript** ![JavaScript](https://media.giphy.com/media/1gkEO5SJE4HzzrA5EH/giphy.gif)
-- **TypeScript** ![TypeScript](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFlMjExOTBlM2VmZDI3OTlmNjY0MzAzMTFhMjgxNzRlNGRlZDU0YTg4ZGVhZjdmNzYzNGM2OTY3OA/giphy.gif)
-- **Redux** ![Redux](https://media.giphy.com/media/l0HU4ayYp2RVMchyy/giphy.gif)
-- **React Native** ![React Native](https://media.giphy.com/media/3oKIPi2pcvczjwbw9W/giphy.gif)
+- **React.js**
+- **JavaScript**
+- **TypeScript**
+- **Redux**
+- **React Native**
 
 ### **UI/UX Design**:
-- **HTML5** ![HTML5](https://media.giphy.com/media/YgsPqgAKToMi7V6lqD/giphy.gif)
-- **CSS3** ![CSS3](https://media.giphy.com/media/Q5I2vbh8xBlR3bCRuF/giphy.gif)
-- **Tailwind CSS** ![Tailwind CSS](https://media.giphy.com/media/48p0xX5n0ksT2lD15C/giphy.gif)
-- **Bootstrap** ![Bootstrap](https://media.giphy.com/media/Xy5c3HbYq1imv3TkEq/giphy.gif)
+- **HTML5**
+- **CSS3**
+- **Tailwind CSS**
+- **Bootstrap**
 
 ### **Version Control & CI/CD**:
-- **GitHub** ![GitHub](https://media.giphy.com/media/JtWOs6A2kCDPAE1yRo/giphy.gif)
-- **CI/CD** ![CI/CD](https://media.giphy.com/media/2AkX7pxRkk2Uht4kqS/giphy.gif)
+- **GitHub**
+- **CI/CD**
 
 ---
 
@@ -48,5 +48,3 @@ I enjoy working on **React**, leveraging **Redux** for state management and usin
 
 ---
 
-
-  
