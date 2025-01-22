@@ -11,24 +11,37 @@ I enjoy working on **React**, leveraging **Redux** for state management and usin
 
 ## 💼 Tech Stack
 
-### **Frontend**:
-- **React.js**
-- **JavaScript**
-- **TypeScript**
-- **Redux**
-- **React Native**
+<table>
+  <tr>
+    <td>
+      <h3><strong>Frontend</strong></h3>
+      <ul>
+        <li>React.js</li>
+        <li>JavaScript</li>
+        <li>TypeScript</li>
+        <li>Redux</li>
+        <li>React Native</li>
+      </ul>
+    </td>
+    <td>
+      <h3><strong>UI/UX Design</strong></h3>
+      <ul>
+        <li>HTML5</li>
+        <li>CSS3</li>
+        <li>Tailwind CSS</li>
+        <li>Bootstrap</li>
+      </ul>
+    </td>
+    <td>
+      <h3><strong>Version Control & CI/CD</strong></h3>
+      <ul>
+        <li>GitHub</li>
+        <li>CI/CD</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-### **UI/UX Design**:
-- **HTML5**
-- **CSS3**
-- **Tailwind CSS**
-- **Bootstrap**
-
-### **Version Control & CI/CD**:
-- **GitHub**
-- **CI/CD**
-
----
 
 ## 💡 My Approach
 - Focus on **creating interactive UIs** with a seamless experience across all platforms.
