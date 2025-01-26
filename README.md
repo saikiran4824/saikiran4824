@@ -6,10 +6,11 @@ Frontend Developer |  JavaScript | React | Angular | MERN/MEAN Stack | Webpack |
 
 ## 👨‍💻 About Me
 
-I am a passionate and detail-oriented **Frontend Developer** with extensive experience in building dynamic and responsive web applications using the latest technologies. I specialize in **React.js** and the **MERN Stack**, with a solid understanding of both front-end and back-end development.
+I am a passionate and detail-oriented Frontend Developer with extensive experience in building dynamic and responsive web applications using cutting-edge technologies. I specialize in React.js, AngularJS, and the MERN & MEAN stacks, with a strong foundation in both front-end and back-end development.
 
-I enjoy working on **React**, leveraging **Redux** for state management and using **TypeScript** for type safety in large-scale applications. I’m committed to writing clean, efficient, and maintainable code and continuously striving to improve the user experience with modern frontend libraries and frameworks.
+With expertise in React and state management using Redux, I focus on creating scalable and maintainable solutions for modern web applications. I also leverage TypeScript to ensure type safety and enhance developer productivity in large-scale projects. My experience extends to AngularJS for building dynamic single-page applications (SPAs) and integrating with various back-end services.
 
+I am well-versed in using JavaScript (ES6/ES7), Node.js, Express, and MongoDB in the context of both the MERN and MEAN stacks, which enables me to work on full-stack development with an emphasis on efficient, high-performance solutions. My commitment to writing clean, modular, and maintainable code is coupled with a strong focus on optimizing user experience and staying current with the latest frontend frameworks and best practices.
 ## 💡 My Approach
 - Focus on **creating interactive UIs** with a seamless experience across all platforms.
 - Use **modern JavaScript** and frameworks like **React**, **Angular** to ensure **fast, scalable, and maintainable code**.
