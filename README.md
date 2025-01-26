@@ -2,6 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm Sai Kiran</h1>
 Frontend Developer | React | Angular |  JavaScript | MERN/MEAN Stack |Webpack |  TypeScript | HTML5 | CSS3 | Redux | Tailwind CSS | Bootstrap | React Native | CI/CD | GitHub | Vue.js  | GraphQL | Next.js | Figma | Chakra UI | Ant Design | Cypress | React Testing Library | ESLint | Chrome DevTools | Redux DevTools | Postman
+
+
 ## 👨‍💻 About Me
 
 I am a passionate and detail-oriented **Frontend Developer** with extensive experience in building dynamic and responsive web applications using the latest technologies. I specialize in **React.js** and the **MERN Stack**, with a solid understanding of both front-end and back-end development.
