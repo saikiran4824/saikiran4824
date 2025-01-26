@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Sai Kiran</h1>
-Frontend Developer |  JavaScript | React | Angular | MERN/MEAN Stack | Webpack |  TypeScript | HTML5 | CSS3 | Redux | Tailwind CSS | Bootstrap | React Native | CI/CD | GitHub | Vue.js  | GraphQL | Next.js | Figma | Chakra UI | Ant Design | Cypress | React Testing Library | ESLint | Chrome DevTools | Redux DevTools | Postman | Debugging | 
+Frontend Developer |  JavaScript | React | Angular | MERN/MEAN Stack | Webpack |  TypeScript | HTML5 | CSS3 | Redux | Tailwind CSS | Bootstrap | React Native | CI/CD | GitHub | Vue.js  | GraphQL | Next.js | Figma | Chakra UI | Ant Design | Cypress | React Testing Library | ESLint | Chrome DevTools | Redux DevTools | Postman | Debugging | Problem Solving
 
 
 ## 👨‍💻 About Me
